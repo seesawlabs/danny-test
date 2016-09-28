@@ -1,0 +1,14 @@
+.query-temp {
+    background: transparent url('/img/temperature-icon-small.png') 0 0 no-repeat;
+    height: 68px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.query-temp div {
+    margin-left: 70px;
+}
+
+.query-temp div:last-child {
+    margin-top: 20px;
+}
